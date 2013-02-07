@@ -5,8 +5,10 @@
 import re
 
 # create a pattern (note the the 'r' before the quotes avoids the \ problem
-#patLocateFirstLine = re.compile(r'^#\s{17}[0-9]+$')
-
+patLocateFirstEntry = re.compile(r'^#\s{17}1$')
+patLocateNextEntry = re.compile(r'^#\s{17}[0-9]+$')
+patDatePlaced = re.compile(r'^Date Placed')
+patDatePlacedDate = re.compile(r'[0-9]{2}-[0-9]{2}-[0-9]{4}')
 	
 # Ask for filename to open
 #whichFileToRead = raw_input("File Name? ")
@@ -23,11 +25,31 @@ except IOError:
 #newFileName = whichFileToRead[0:whichFileToRead.rfind(".")] + "_output.txt"
 #saveTextFile = open(newFileName, "w")	
 
-	
+# Set up variables
+storeInfo = []
+tempList = []
+
 # Do stuff with file
-	for fileLine in useTextFile:
-		if patLocateFirstLine.search(fileLine):
-			print(fileLine)
+
+line = useTextFile.readline()
+while line:
+	if patLocateFirstEntry.search(line): #find the first entry in the file
+		line = useTextFile.readline()
+		break
+	line = useTextFile.readline()
+while line:
+	print(line)
+	if patLocateNextEntry.search(line):
+		print(line)
+		storeInfo.append(tempList)
+		tempList = []
+	else:
+		if patDatePlaced.search(line):
+			print(patDatePlacedDate.findall(line))
+			tempList.append(patDatePlacedDate.findall(line))
+	line = useTextFile.readline()	
+		
+
 				
 # close opened file when done
 useTextFile.close()
