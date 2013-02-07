@@ -5,7 +5,7 @@
 import re
 
 # create a pattern (note the the 'r' before the quotes avoids the \ problem
-#searchPattern = re.compile(r'')
+#patLocateFirstLine = re.compile(r'^#\s{17}[0-9]+$')
 
 	
 # Ask for filename to open
@@ -25,7 +25,9 @@ except IOError:
 
 	
 # Do stuff with file
-
+	for fileLine in useTextFile:
+		if patLocateFirstLine.search(fileLine):
+			print(fileLine)
 				
 # close opened file when done
 useTextFile.close()
