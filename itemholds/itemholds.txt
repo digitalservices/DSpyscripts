@@ -1,0 +1,4328 @@
+From: FTS E-MAIL [ftsmail@m4007.ci.sat.tx.us]
+Sent: Thursday, February 07, 2013 9:05 AM
+To: Rolf Laun
+Subject: FTS MAIL
+
+Follow Up Flag: Follow up
+Flag Status: Red
+
+Item Level Holds at Brook Hollow
+
+
+
+                   Outstanding Holds Placed Before 02-07-2013
+                          Thursday February 07 08:58AM
+                      OUTSTANDING:  242  ON HOLDSHELF:  23
+                        BIB LEVEL:  0  ITEM LEVEL:  242
+
+
+#                 1
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Herrera, Roman A
+                  p2090875
+                  
+                  210-605-6265
+Title             Let's grow. Lend a helping hand [videore
+Call No.          JUVENILE DVD ANIMATED LET'S
+Barcode           31551084979686
+Location          bajm 
+Pickup Location   ca   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41868626 Not checked out
+                   
+#                 2
+Date Placed       11-17-2012
+Not Needed After  11-17-2013
+Not Needed Before   -  -  
+Patron Info       Aguilar, Francisco Zamora
+                  p1430038
+                  aguilar9769@gmail.com
+                  210-487-8788
+Title             Entourage. Complete eighth season [video
+Call No.          DVD 791.4572 ENTOURAGE
+Barcode           31551085707771
+Location          bam  
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47114617 Not checked out
+                   
+#                 3
+Date Placed       01-09-2013
+Not Needed After  01-09-2014
+Not Needed Before   -  -  
+Patron Info       Salazar, Sergio
+                  p2237035
+                  
+                  210-557-6411
+Title             Ingl{u00E9}s sin barreras. 10, Conversaci{u00F3}n in
+Call No.          ESPANOL DVD 428.3461 INGLES
+Barcode           31551080735405
+Location          basm 
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+
+                                     Page 1
+Status            CHECK SHELF
+Hold Note         .i37658062 Not checked out
+                   
+#                 4
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             Nauti boy / Lora Leigh.
+Call No.          FICTION LEIGH
+Barcode           31551079585498
+Location          bhb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i35734814 Not checked out.  tricia add 3rd
+                   
+#                 5
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             A fine balance : a novel / by Rohinton M
+Call No.          FICTION MISTRY
+Barcode           31551066351797
+Location          bhb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i16610854 Not checked out
+                   
+#                 6
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             To the end of the land / David Grossman
+Call No.          FICTION GROSSMAN
+Barcode           31551094752222
+Location          bhb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42630927 Not checked out
+                   
+#                 7
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+
+                                     Page 2
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929937
+Location          bhb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699674 Not checked out
+                   
+#                 8
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             Red Dog / Louis De Bernieres ; retold by
+Call No.          FICTION BASSETT
+Barcode           31551010775448
+Location          bhb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224316 Not checked out
+                   
+#                 9
+Date Placed       11-04-2012
+Not Needed After  11-04-2013
+Not Needed Before   -  -  
+Patron Info       Vaughan, Donna Ann
+                  p1336534
+                  ddsweeties@juno.com
+                  210-967-0255
+Title             Thumb love / Elise Primavera.
+Call No.          JUVENILE EASY PRIMAVERA
+Barcode           31551101140932
+Location          bhjb 
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46025613 Not checked out
+                   
+#                 10
+Date Placed       12-21-2012
+Not Needed After  12-21-2013
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Holdings Katie
+                  p1202721
+                  kathryn.ryan@sanantonio.gov
+                  210-207-9038
+Title             Time bandits [videorecording] / The Crit
+Call No.          DVD MOVIE TIME
+Barcode           31551069302151
+
+                                     Page 3
+Location          bhm  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i26333156 Not checked out.  Delete
+                   
+#                 11
+Date Placed       12-31-2012
+Not Needed After  12-31-2013
+Not Needed Before   -  -  
+Patron Info       Valdez, Maria Rosario
+                  p1614903
+                  
+                  210-854-4485
+Title             The journey of T.D. Jakes [sound recordi
+Call No.          CD 289.94092 YOUNG
+Barcode           31551085564305
+Location          bhm  
+Pickup Location   mc   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46123672 Not checked out
+                   
+#                 12
+Date Placed       11-27-2012
+Not Needed After  11-27-2013
+Not Needed Before   -  -  
+Patron Info       Routin, Karen Marie
+                  p1027531
+                  kroutin@hotmail.com
+                  210-496-5587
+Title             Notorious nineteen : a Stephanie Plum no
+Call No.          MYSTERY EVANOVICH
+Barcode           31551100516918
+Location          bhn  
+Pickup Location   bh   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i48355240 Not checked out
+                   
+#                 13
+Date Placed       01-15-2013
+Not Needed After  01-15-2014
+Not Needed Before   -  -  
+Patron Info       Alcantar, Mercedes
+                  p1878410
+                  
+                  210-781-6722
+Title             Ingl{u00E9}s sin barreras. 2, Conoci{u00E9}ndonos m{u00E1}
+Call No.          ESPANOL DVD 428.3461 INGLES
+Barcode           31551080735074
+Location          bhsm 
+Pickup Location   mc   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i37655784 Not checked out
+                   
+#                 14
+
+                                     Page 4
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             Truthseeker / C.E. Murphy.
+Call No.          SCIENCE FICTION MURPHY
+Barcode           31551010382427
+Location          cab  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44764480 Not checked out.  3rd bsdh
+                   
+#                 15
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog [text (large print)]
+Call No.          LARGE PRINT FICTION CAMILLERI
+Barcode           31551075467139
+Location          cab  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32283611 Not checked out
+                   
+#                 16
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Wallace, Brianna Martine
+                  p1632155
+                  brianna.wallace@live.com
+                  210-884-7137
+Title             The Rebbe : the life and afterlife of Me
+Call No.          296.833322 SCHNEERSON BIOGRAPHY
+Barcode           31551096154054
+Location          cab  
+Pickup Location   rs   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4191840x Not checked out
+                   
+#                 17
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+
+                                     Page 5
+Title             Red Dog / Louis De Bernieres ; retold by
+Call No.          FICTION BASSETT
+Barcode           31551010775471
+Location          cab  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224341 Not checked out
+                   
+#                 18
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Z is for Moose / by Kelly Bingham ; pict
+Call No.          JUVENILE EASY BINGHAM
+Barcode           31551101397599
+Location          cajb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46705107 Not checked out
+                   
+#                 19
+Date Placed       12-16-2012
+Not Needed After  12-16-2013
+Not Needed Before   -  -  
+Patron Info       Pruitt Branch Book Displays
+                  p2033099
+                  
+                  210-650-1122
+Title             March on! [videorecording] : the day my
+Call No.          JUVENILE DVD ANIMATED MARCH
+Barcode           31551085093651
+Location          cajm 
+Pickup Location   rs   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42972085 Not checked out
+                   
+#                 20
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Clark, Gloria Pena
+                  p1939993
+                  gclark217@yahoo.com
+                  210-779-1142
+Title             Outer limits. The complete fourth season
+Call No.          DVD 791.4572 OUTER  Discs 1 - 4
+Barcode           31551085310634
+Location          cam  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+
+                                     Page 6
+Hold Note         .i44740591 Not checked out
+                   
+#                 21
+Date Placed       11-28-2012
+Not Needed After  11-28-2013
+Not Needed Before   -  -  
+Patron Info       Martinez, Jose Angel
+                  p2049452
+                  mart2680@yahoo.com
+                  210-927-5813
+Title             Introduction to Microsoft Word 2010. Win
+Call No.          DVD 005.52 INTRODUCTION
+Barcode           31551085244684
+Location          cam  
+Pickup Location   cr   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44071279 Not checked out
+                   
+#                 22
+Date Placed       12-10-2012
+Not Needed After  12-10-2013
+Not Needed Before   -  -  
+Patron Info       Carver Branch Library Corrections (Alma or Deanna)
+                  p1253267
+                  deannas@sanantonio.gov
+                  210-225-7801
+Title             Robotech. "Desde las estrellas", vol. 1
+Call No.          JOVEN ESPANOL FICCION ROBOTECH
+Barcode           31551083894704
+Location          caysb
+Pickup Location   ca   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40739569 Not checked out.  CHECK THE CALL NUMBER
+                   
+#                 23
+Date Placed       12-10-2012
+Not Needed After  12-10-2013
+Not Needed Before   -  -  
+Patron Info       Carver Branch Library Corrections (Alma or Deanna)
+                  p1253267
+                  deannas@sanantonio.gov
+                  210-225-7801
+Title             Robotech. "Desde las estrellas", vol. 2
+Call No.          JOVEN ESPANOL FICCION ROBOTECH
+Barcode           31551095464439
+Location          caysb
+Pickup Location   ca   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41072467 Not checked out.  CHECK THE CALL NUMBER
+                   
+#                 24
+Date Placed       12-03-2012
+Not Needed After  12-03-2013
+Not Needed Before   -  -  
+Patron Info       Kitchen, Edna H
+
+                                     Page 7
+                  p1010350
+                  ekitchen@stic.net
+                  210-543-1229
+Title             The diary of Ana{u00EF}s Nin / edited and with
+Call No.          818.52 NIN, BIO  v. 6
+Barcode           31551020963729
+Location          ceb  
+Pickup Location   gr   
+Hold Status       Item hold with 1 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i1043057x Not checked out
+                   
+#                 25
+Date Placed       11-27-2012
+Not Needed After  11-27-2013
+Not Needed Before   -  -  
+Patron Info       Halsema, Margaret Medina
+                  p1034955
+                  margaret.halsema@teexmail.tamu.edu
+                  210-785-0743
+Title             Abraham Lincoln : a life / Michael Burli
+Call No.          973.7092 LINCOLN BIOGRAPHY  v.1
+Barcode           31551082621280
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i38924900 Not checked out
+                   
+#                 26
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551067377395
+Location          ceb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25936700 Not checked out
+                   
+#                 27
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog [text (large print)]
+Call No.          LARGE PRINT FICTION CAMILLERI
+Barcode           31551075467121
+Location          ceb  
+
+                                     Page 8
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i3228360x Not checked out
+                   
+#                 28
+Date Placed       12-17-2012
+Not Needed After  12-17-2013
+Not Needed Before   -  -  
+Patron Info       Gregg, Cecil Menren
+                  p1208519
+                  
+                  210-822-4016
+Title             The sunset warrior / Eric Van Lustbader.
+Call No.          SCIENCE FICTION LUSTBADER
+Barcode           31551014212620
+Location          ceb  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11930780 Not checked out
+                   
+#                 29
+Date Placed       02-03-2013
+Not Needed After  02-03-2014
+Not Needed Before   -  -  
+Patron Info       Lopez, Teresa Rosario
+                  p1247174
+                  terri_lopez@yahoo.com
+                  210-924-4934
+Title             Tears of the moon [text (large print)] /
+Call No.          LARGE PRINT FICTION ROBERTS
+Barcode           31551066461331
+Location          ceb  
+Pickup Location   cr   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i27735643 Not checked out
+                   
+#                 30
+Date Placed       10-26-2012
+Not Needed After  10-26-2013
+Not Needed Before   -  -  
+Patron Info       Scharf, Irene Frances
+                  p1252671
+                  irene.scharf@gmail.com
+                  210-695-8008
+Title             The Art of painting on silk / edited by
+Call No.          746.6 ART  v. 2
+Barcode           31551024018827
+Location          ceb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i13822780 Not checked out
+                   
+#                 31
+Date Placed       12-22-2012
+
+                                     Page 9
+Not Needed After  12-22-2013
+Not Needed Before   -  -  
+Patron Info       Carte, John D
+                  p1282022
+                  
+                  210-733-1234
+Title             Marcel Dupr{u00E9}, the work of a master organ
+Call No.          786.50924 DUPRE
+Barcode           31551009604823
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i12329873 Not checked out
+                   
+#                 32
+Date Placed       11-27-2012
+Not Needed After  11-27-2013
+Not Needed Before   -  -  
+Patron Info       Labarba Miggins, Julie
+                  p1330569
+                  juliemiggins@gmail.com
+                  210-269-9451
+Title             Holy Bible in the King James Version ...
+Call No.          BRAILLE 220.5203 BIBLE  v. 1
+Barcode           31551036848138
+Location          ceb  
+Pickup Location   ln   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i19243650 Not checked out
+                   
+#                 33
+Date Placed       10-28-2012
+Not Needed After  10-28-2013
+Not Needed Before   -  -  
+Patron Info       Chenault, James Cawood
+                  p1363105
+                  
+                  210-473-0203
+Title             Time and narrative / Paul Ricoeur ; tran
+Call No.          809.923 RICUR  v. 1
+Barcode           31551019493647
+Location          ceb  
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11696072 Not checked out
+                   
+#                 34
+Date Placed       12-12-2012
+Not Needed After  12-12-2013
+Not Needed Before   -  -  
+Patron Info       Corman, Anne
+                  p1372602
+                  annec126@hotmail.com
+                  210-826-4420
+Title             Les mis{u00E9}rables / Victor Hugo ; chronolog
+
+                                    Page 10
+Call No.          FRENCH FICTION HUGO  v. 3
+Barcode           31551013323402
+Location          ceb  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i24324024 Not checked out
+                   
+#                 35
+Date Placed       02-02-2013
+Not Needed After  02-02-2014
+Not Needed Before   -  -  
+Patron Info       Garcia, Dalenne Frances Bass
+                  p1423252
+                  dalenneg@gmail.com
+                  210-286-3578
+Title             Predator [text (large print)] / Patricia
+Call No.          LARGE PRINT FICTION CORNWELL
+Barcode           31551076031892
+Location          ceb  
+Pickup Location   gr   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i33394957 Not checked out
+                   
+#                 36
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             A fine balance : a novel / by Rohinton M
+Call No.          FICTION MISTRY
+Barcode           31551032021532
+Location          ceb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i16610830 Not checked out
+                   
+#                 37
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             To the end of the land / David Grossman
+Call No.          FICTION GROSSMAN
+Barcode           31551094752297
+Location          ceb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4263099x Not checked out
+
+                                    Page 11
+                   
+#                 38
+Date Placed       12-07-2012
+Not Needed After  12-07-2013
+Not Needed Before   -  -  
+Patron Info       Arredondo, Mary Mora
+                  p1714842
+                  marredondo86@aim.com
+                  210-630-5635
+Title             Daddy's little girl [text (large print)]
+Call No.          LARGE PRINT FICTION CLARK
+Barcode           31551065003951
+Location          ceb  
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i24052541 Not checked out
+                   
+#                 39
+Date Placed       12-03-2012
+Not Needed After  12-03-2013
+Not Needed Before   -  -  
+Patron Info       Oyler, Nora A
+                  p1848088
+                  noyler@satx.rr.com
+                  210-496-7978
+Title             The ultimate Elton John collection : pia
+Call No.          783.1166 JOHN  v. 1
+Barcode           31551037213209
+Location          ceb  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i1962198x Not checked out.  pjl
+                   
+#                 40
+Date Placed       01-19-2013
+Not Needed After  01-19-2014
+Not Needed Before   -  -  
+Patron Info       Garnica, Edward Brigham
+                  p1851960
+                  hofmann25@yahoo.com
+                  832-605-6047
+Title             Incidents in the life of a slave girl :
+Call No.          973.6088 JACOBS
+Barcode           31551032308715
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i16654699 Not checked out
+                   
+#                 41
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+
+                                    Page 12
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929986
+Location          ceb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699728 Not checked out
+                   
+#                 42
+Date Placed       12-06-2012
+Not Needed After  12-06-2013
+Not Needed Before   -  -  
+Patron Info       Igo Library Mystery Book Club
+                  p1952325
+                  Rhonda.Woolhouse@sanantonio.gov
+                  210-561-6113
+Title             The interpretation of murder : a novel /
+Call No.          FICTION RUBENFELD
+Barcode           31551076357834
+Location          ceb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32810076 Not checked out
+                   
+#                 43
+Date Placed       01-17-2013
+Not Needed After  01-17-2014
+Not Needed Before   -  -  
+Patron Info       Yin, Danting
+                  p1956833
+                  dantingyin@hotmail.com
+                  254-855-8980
+Title             The diary of Ana{u00EF}s Nin / edited and with
+Call No.          818.52 NIN, BIO  v. 6
+Barcode           31551020963729
+Location          ceb  
+Pickup Location   st   
+Hold Status       Item hold with 2 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i1043057x Not checked out
+                   
+#                 44
+Date Placed       10-30-2012
+Not Needed After  10-30-2013
+Not Needed Before   -  -  
+Patron Info       Strubel, Halina
+                  p2017132
+                  hstrubel@aol.com
+                  210-493-6906
+Title             A code of Jewish ethics / Joseph Telushk
+Call No.          296.36 TELUSHKIN  v.2
+Barcode           31551082643102
+Location          ceb  
+Pickup Location   co   
+
+                                    Page 13
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39168165 Not checked out
+                   
+#                 45
+Date Placed       01-08-2013
+Not Needed After  01-08-2014
+Not Needed Before   -  -  
+Patron Info       Alejandro, Pedro Romo
+                  p2030176
+                  
+                  210-219-2726
+Title             Aztl{u00E1}n and Viet Nam : Chicano and Chican
+Call No.          959.7043 AZTLAN
+Barcode           31551033938064
+Location          ceb  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i19733707 Not checked out
+                   
+#                 46
+Date Placed       11-01-2012
+Not Needed After  11-01-2013
+Not Needed Before   -  -  
+Patron Info       Collection Development
+                  p2053734
+                  melinda.sanchez@sanantonio.gov
+                  210-207-2524
+Title             Survivors : a novel of the coming collap
+Call No.          FICTION RAWLES
+Barcode           31551010451800
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45914710 Not checked out
+                   
+#                 47
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       McCreless Library Book Club
+                  p2156555
+                  cammie.brantley@sanantonio.gov
+                  210-532-4254
+Title             In the woods [text (large print)] / Tana
+Call No.          LARGE PRINT FICTION FRENCH
+Barcode           31551079910761
+Location          ceb  
+Pickup Location   mc   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36100729 Not checked out
+                   
+#                 48
+Date Placed       01-18-2013
+Not Needed After  01-18-2014
+
+                                    Page 14
+Not Needed Before   -  -  
+Patron Info       Oakwell Interesting Book Club
+                  p2168973
+                  
+                  210-828-2569
+Title             A reliable wife : a novel / by Robert Go
+Call No.          FICTION GOOLRICK
+Barcode           31551082239034
+Location          ceb  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39367654 Not checked out
+                   
+#                 49
+Date Placed       01-23-2013
+Not Needed After  01-23-2014
+Not Needed Before   -  -  
+Patron Info       Oakwell Interesting Book Club
+                  p2168973
+                  
+                  210-828-2569
+Title             A reliable wife : a novel / by Robert Go
+Call No.          FICTION GOOLRICK
+Barcode           31551082238911
+Location          ceb  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39367538 Not checked out
+                   
+#                 50
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+Not Needed Before   -  -  
+Patron Info       Parman Library  Escape the Earth!
+                  p2192482
+                  tyler.lutz@sanantonio.gov
+                  210-207-2703
+Title             Old man's war / John Scalzi.
+Call No.          SCIENCE FICTION SCALZI
+Barcode           31551095597477
+Location          ceb  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45526874 Not checked out
+                   
+#                 51
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             The butler did it : and other plays / Bi
+Call No.          428.6 WEST 2008
+
+                                    Page 15
+Barcode           31551010775315
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224183 Not checked out
+                   
+#                 52
+Date Placed       01-23-2013
+Not Needed After  01-23-2014
+Not Needed Before   -  -  
+Patron Info       Michaels, Bianna J
+                  p2214518
+                  bjyoung1881@gmail.com
+                  210-569-3071
+Title             Literary market place : LMP 2009 : the d
+Call No.          029 LITERARY  v. 2
+Barcode           31551079727777
+Location          ceb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i38239115 Not checked out
+                   
+#                 53
+Date Placed       12-13-2012
+Not Needed After  12-13-2013
+Not Needed Before   -  -  
+Patron Info       Balldin, Valerie Hobson
+                  p2220312
+                  valerielhobson@yahoo.com
+                  210-317-9698
+Title             Breach of trust / David Ellis.
+Call No.          FICTION ELLIS
+Barcode           31551095257148
+Location          ceb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43648046 Not checked out
+                   
+#                 54
+Date Placed       01-16-2013
+Not Needed After  01-16-2014
+Not Needed Before   -  -  
+Patron Info       Esquivel, Anais
+                  p2238915
+                  veromaxama@hotmail.com
+                  210-338-9474
+Title             The book of the thousand nights and one
+Call No.          892.73 BOOK  v. 2
+Barcode           31551021478511
+Location          ceb  
+Pickup Location   rs   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i13738008 Not checked out
+                   
+
+                                    Page 16
+#                 55
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       Etor, Yahweh
+                  p2239215
+                  
+                  210-410-7387
+Title             Texas test prep writing workbook. STAAR
+Call No.          372.623 TEXAS 2011
+Barcode           31551101795487
+Location          ceb  
+Pickup Location   ca   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47324351 Not checked out
+                   
+#                 56
+Date Placed       11-27-2012
+Not Needed After  11-27-2013
+Not Needed Before   -  -  
+Patron Info       Osivnik, Aaron Lee
+                  p2243786
+                  Revictioncasting@gmail.com
+                  330-760-4829
+Title             Conversations with Seth / Susan M. Watki
+Call No.          133.93 WATKINS  v. 2, CHAPTERS, 11-20
+Barcode           31551005234005
+Location          ceb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i1105136x Not checked out
+                   
+#                 57
+Date Placed       01-22-2013
+Not Needed After  01-22-2014
+Not Needed Before   -  -  
+Patron Info       Central Technical Services-Holdings Editor
+                  p1736520
+                  barbara.lujan@sanantonio.gov
+                  210-207-2524
+Title             The fruit of all evil / written by Phili
+Call No.          JUVENILE FICTION CRAWFORD
+Barcode           31551100379622
+Location          cejb 
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47377793 Not checked out.  Does book match record?
+                   
+#                 58
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Duncan, Emmi Kristine
+                  p2088407
+                  jordieanne@hotmail.com
+
+                                    Page 17
+                  210-870-6450
+Title             Dinosaurs before dark / by Mary Pope Osb
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551101424013
+Location          cejb 
+Pickup Location   mv   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i46767599 Not checked out
+                   
+#                 59
+Date Placed       11-01-2012
+Not Needed After  11-01-2013
+Not Needed Before   -  -  
+Patron Info       Jacquez, Elvira Eloise
+                  p1605117
+                  ejacquez07@yahoo.com
+                  210-857-1871
+Title             Anna Karenina [sound recording] / by Leo
+Call No.          CD FICTION TOLSTOY  Pt. 2
+Barcode           31551079591876
+Location          cem  
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i35769087 Not checked out
+                   
+#                 60
+Date Placed       02-02-2013
+Not Needed After  02-02-2014
+Not Needed Before   -  -  
+Patron Info       Maverick Library Teens
+                  p1727349
+                  audrey.mcpherson@sanantonio.gov
+                  210-680-9346
+Title             Leviathan / written by Scott Westerfeld
+Call No.          YOUNG ADULT FICTION WESTERFELD
+Barcode           31551083796677
+Location          ceyb 
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41165329 Not checked out
+                   
+#                 61
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Collins Garden Book Club
+                  p2267809
+                  enedina.prater@sanantonio.gov
+                  No phone
+Title             The Forest of Hands and Teeth / Carrie R
+Call No.          YOUNG ADULT FICTION RYAN
+Barcode           31551081998093
+Location          ceyb 
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+
+                                    Page 18
+Status            CHECK SHELF
+Hold Note         .i39044610 Not checked out
+                   
+#                 62
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551067377403
+Location          cob  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25936712 Not checked out
+                   
+#                 63
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             To the end of the land / David Grossman
+Call No.          FICTION GROSSMAN
+Barcode           31551094752289
+Location          cob  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42630988 Not checked out
+                   
+#                 64
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Boyers, Korbin Flagin
+                  p1805210
+                  
+                  210-828-1769
+Title             First things first : to live, to love, t
+Call No.          158.1 COVEY
+Barcode           31551037811960
+Location          cob  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11188030 Not checked out
+                   
+#                 65
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+Not Needed Before   -  -  
+
+                                    Page 19
+Patron Info       Parman Library  Escape the Earth!
+                  p2192482
+                  tyler.lutz@sanantonio.gov
+                  210-207-2703
+Title             Old man's war / John Scalzi.
+Call No.          SCIENCE FICTION SCALZI
+Barcode           31551073074598
+Location          cob  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i48801173 Not checked out
+                   
+#                 66
+Date Placed       12-15-2012
+Not Needed After  12-15-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             Southtown / Rick Riordan.
+Call No.          PBRACK MYSTERY
+Barcode           31551080216638
+Location          cob  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41967331 Not checked out
+                   
+#                 67
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks NF
+                  p2260352
+                  dorothyc@sanantonio.gov
+                  210-207-9190
+Title             Starting & building a nonprofit : a prac
+Call No.          658.048 PAKROO
+Barcode           31551100226864
+Location          cob  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44528188 Not checked out
+                   
+#                 68
+Date Placed       12-21-2012
+Not Needed After  12-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Clever Jack takes the cake / written by
+Call No.          JUVENILE EASY FLEMING
+Barcode           31551095989278
+
+                                    Page 20
+Location          cojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42525998 Not checked out
+                   
+#                 69
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Isenhower, Christina
+                  p1683618
+                  christina@isenhowers.com
+                  210-410-3758
+Title             The ballad of Valentine / Alison Jackson
+Call No.          JUVENILE EASY JACKSON
+Barcode           31551072070001
+Location          cojb 
+Pickup Location   co   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i25833169 Not checked out
+                   
+#                 70
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Isenhower, Christina
+                  p1683618
+                  christina@isenhowers.com
+                  210-410-3758
+Title             Dog loves books / Louise Yates.
+Call No.          JUVENILE EASY YATES
+Barcode           31551096640243
+Location          cojb 
+Pickup Location   co   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i42316157 Not checked out
+                   
+#                 71
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Isenhower, Christina
+                  p1683618
+                  christina@isenhowers.com
+                  210-410-3758
+Title             Old hat, new hat, by Stan and Jan Berens
+Call No.          JUVENILE BEGINNER BERENSTAIN
+Barcode           31551099939584
+Location          cojb 
+Pickup Location   co   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i43421817 Not checked out
+                   
+#                 72
+
+                                    Page 21
+Date Placed       02-03-2013
+Not Needed After  02-03-2014
+Not Needed Before   -  -  
+Patron Info       Roberts, Marisa Chapa
+                  p1776094
+                  buttercup0915@yahoo.com
+                  210-426-5296
+Title             The pillars of the Earth [videorecording
+Call No.          DVD 791.4572 PILLARS
+Barcode           31551085143415
+Location          com  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43125086 Not checked out
+                   
+#                 73
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Verstraeten, Virginia
+                  p1865204
+                  gingercakes@sbcglobal.net
+                  210-697-8448
+Title             A winter scandal [text (large print)] /
+Call No.          LARGE PRINT FICTION CAMP
+Barcode           31551094974636
+Location          con  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46615076 Not checked out
+                   
+#                 74
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Dove, Debbie K
+                  p1019607
+                  d_dove@sbcglobal.net
+                  210-863-1560
+Title             Oceans of fire / Christine Feehan.
+Call No.          PBRACK ROMANCE
+Barcode           31551094721342
+Location          crb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46474560 Not checked out
+                   
+#                 75
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+
+                                    Page 22
+Title             Skeleton Coast / Clive Cussler, with Jac
+Call No.          FICTION CUSSLER
+Barcode           31551077106289
+Location          crb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i33350073 Not checked out.  tricia add 3rd
+                   
+#                 76
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             The Irish duke / Virginia Henley.
+Call No.          FICTION HENLEY
+Barcode           31551096554451
+Location          crb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41465234 Not checked out.  tricia add 3rd
+                   
+#                 77
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Schwierking, Dana Lynn
+                  p1518555
+                  dschwierking@satx.rr.com
+                  210-495-2593
+Title             Texas drivers handbook / Texas Departmen
+Call No.          629.213 TEXAS  2008
+Barcode           31551082772190
+Location          crb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39328491 Not checked out
+                   
+#                 78
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Smith, Patricia Joyce
+                  p1530943
+                  
+                  210-371-9278
+Title             The wind through the keyhole / Stephen K
+Call No.          FICTION KING
+Barcode           31551101402977
+Location          crn  
+Pickup Location   cr   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+
+                                    Page 23
+Hold Note         .i46711788 Not checked out
+                   
+#                 79
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551084123624
+Location          fob  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40690106 Not checked out
+                   
+#                 80
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Oakwell Suspense Book Club
+                  p1352796
+                  
+                  210-828-2569
+Title             Still life / Louise Penny.
+Call No.          MYSTERY PENNY
+Barcode           31551075037189
+Location          fob  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32405182 Not checked out
+                   
+#                 81
+Date Placed       12-11-2012
+Not Needed After  12-11-2013
+Not Needed Before   -  -  
+Patron Info       Maverick Library Teens
+                  p1727349
+                  audrey.mcpherson@sanantonio.gov
+                  210-680-9346
+Title             Paradise lost / John Milton ; edited wit
+Call No.          821.4 MILTON
+Barcode           31551099409869
+Location          fob  
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41978857 Not checked out
+                   
+#                 82
+Date Placed       12-07-2012
+Not Needed After  12-07-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+
+                                    Page 24
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             Don't sweat the small stuff-- and it's a
+Call No.          158.1 CARLSON
+Barcode           31551035433510
+Location          fob  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i17678808 Not checked out
+                   
+#                 83
+Date Placed       12-10-2012
+Not Needed After  12-10-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             Building your outdoor home : 30 easy lan
+Call No.          635.9 BUILDING
+Barcode           31551037669566
+Location          fob  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i19874650 Not checked out
+                   
+#                 84
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             The Oxford illustrated history of the cr
+Call No.          909.7 OXFORD
+Barcode           31551031882793
+Location          fob  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42699551 Not checked out
+                   
+#                 85
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             The undressed art : why we draw / Peter
+Call No.          741.2 STEINHART
+Barcode           31551071660521
+Location          fob  
+
+                                    Page 25
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i2710381x Not checked out
+                   
+#                 86
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             The World Book encyclopedia.
+Call No.          031 WORLD  v. 21
+Barcode           31551081827920
+Location          fob  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i38291575 Not checked out
+                   
+#                 87
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks NF
+                  p2260352
+                  dorothyc@sanantonio.gov
+                  210-207-9190
+Title             Helping children overcome learning diffi
+Call No.          371.9 ROSNER
+Barcode           31551027609143
+Location          fob  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i14173104 Not checked out
+                   
+#                 88
+Date Placed       11-26-2012
+Not Needed After  11-26-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             A Tangled Web.
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551082066098
+Location          fojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i3752740x Not checked out
+                   
+#                 89
+Date Placed       12-19-2012
+
+                                    Page 26
+Not Needed After  12-19-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             The Buddy files : the case of the librar
+Call No.          JUVENILE FICTION BUTLER
+Barcode           31551101283351
+Location          fojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46187959 Not checked out
+                   
+#                 90
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Star Wars, who saved the galaxy? / writt
+Call No.          JUVENILE 791.43 SAUNDERS 2012
+Barcode           31551102267585
+Location          fojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i48268409 Not checked out
+                   
+#                 91
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             The race across America / [text by] Gero
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551101443955
+Location          fojb 
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46791000 Not checked out
+                   
+#                 92
+Date Placed       12-21-2012
+Not Needed After  12-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Collection HQ
+                  p2209733
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1599
+Title             Gregor and the Code of Claw / Suzanne Co
+
+                                    Page 27
+Call No.          JUVENILE FICTION COLLINS
+Barcode           31551078153108
+Location          fojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i34850831 Not checked out
+                   
+#                 93
+Date Placed       12-21-2012
+Not Needed After  12-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Collection HQ
+                  p2209733
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1599
+Title             Baxter / Ellen Miles.
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551101436082
+Location          fojb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46780099 Not checked out
+                   
+#                 94
+Date Placed       12-15-2012
+Not Needed After  12-15-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Cosechando esperanza : la historia de C{u00E9}
+Call No.          JUVENIL ESPANOL BIOGRAFIA CHAVEZ
+Barcode           31551073222130
+Location          fojsb
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i35629642 Not checked out
+                   
+#                 95
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Cornell, David Bruce
+                  p1068286
+                  beammeup@earthlink.net
+                  210-771-8763
+Title             Jack Canfield's key to living the law of
+Call No.          158 CANFIELD
+Barcode           31551080526382
+Location          grb  
+Pickup Location   gr   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i36336634 Not checked out
+
+                                    Page 28
+                   
+#                 96
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551067403415
+Location          grb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25936736 Not checked out
+                   
+#                 97
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551083814926
+Location          grb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40690015 Not checked out
+                   
+#                 98
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Memorial Library Book Group
+                  p1546426
+                  
+                  210-432-6783
+Title             Frankenstein / Mary Shelley ; retold by
+Call No.          FICTION NOBES
+Barcode           31551094930216
+Location          grb  
+Pickup Location   me   
+Hold Status       Item hold with 2 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i43699959 Not checked out
+                   
+#                 99
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       Memorial Library Book Club
+                  p1831269
+
+                                    Page 29
+                  
+                  210-432-6783
+Title             Frankenstein / Mary Shelley ; retold by
+Call No.          FICTION NOBES
+Barcode           31551094930216
+Location          grb  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i43699959 Not checked out
+                   
+#                 100
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929903
+Location          grb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699649 Not checked out
+                   
+#                 101
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Chezem, Ginger L
+                  p2104472
+                  
+                  210-679-7363
+Title             Native American crafts of California, th
+Call No.          JUVENILE 745.50899 CORWIN
+Barcode           31551067822358
+Location          grjb 
+Pickup Location   gr   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i25952456 Not checked out
+                   
+#                 102
+Date Placed       11-14-2012
+Not Needed After  11-14-2013
+Not Needed Before   -  -  
+Patron Info       Batot, Evelyn Kay
+                  p1431704
+                  rnelanev@swbell.net
+                  210-532-6249
+Title             The first ladies [videorecording].
+Call No.          DVD 973.099 FIRST
+Barcode           31551085984040
+Location          grm  
+Pickup Location   mc   
+
+                                    Page 30
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i48253704 Not checked out
+                   
+#                 103
+Date Placed       12-27-2012
+Not Needed After  12-27-2013
+Not Needed Before   -  -  
+Patron Info       Boytique-Hinojosa, Jenna Leeanne
+                  p1532395
+                  
+                  210-623-5007
+Title             A stolen life : a memoir / Jaycee Dugard
+Call No.          364.154 DUGARD BIOGRAPHY 2011
+Barcode           31551011101917
+Location          grn  
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45090397 Not checked out
+                   
+#                 104
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Library BDC
+                  p1190407
+                  
+                  210-207-9190
+Title             A tree grows in Brooklyn / Betty Smith.
+Call No.          FICTION SMITH
+Barcode           31551078704652
+Location          gub  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i19448892 Not checked out
+                   
+#                 105
+Date Placed       12-29-2012
+Not Needed After  12-29-2013
+Not Needed Before   -  -  
+Patron Info       Stuart, Kenneth Charles
+                  p1301738
+                  kennethcstuart@yahoo.com
+                  210-674-4819
+Title             The ice master : the doomed 1913 voyage
+Call No.          919.804 NIVEN
+Barcode           31551064350858
+Location          gub  
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i21974512 Not checked out
+                   
+#                 106
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+
+                                    Page 31
+Not Needed Before   -  -  
+Patron Info       Parman Library  Escape the Earth!
+                  p2192482
+                  tyler.lutz@sanantonio.gov
+                  210-207-2703
+Title             Old man's war / John Scalzi.
+Call No.          SCIENCE FICTION SCALZI
+Barcode           31551073602125
+Location          gub  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i30557483 Not checked out
+                   
+#                 107
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       Walker, Daniel Keith
+                  p1747855
+                  beckywalker88@gmail.com
+                  210-561-2327
+Title             High tide in Hawaii.
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551077972326
+Location          gujb 
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i34200563 Not checked out
+                   
+#                 108
+Date Placed       12-15-2012
+Not Needed After  12-15-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             La ara{u00F1}a muy ocupada / Eric Carle.
+Call No.          JUVENIL ESPANOL FACIL CARLE
+Barcode           31551082666913
+Location          gujsb
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39045626 Not checked out
+                   
+#                 109
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             La pir{u00E1}mide roja / Rick Riordan ; traduc
+Call No.          JUVENIL ESPANOL FICCION RIORDAN
+
+                                    Page 32
+Barcode           31551101227770
+Location          gujsb
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46113241 Not checked out
+                   
+#                 110
+Date Placed       10-29-2012
+Not Needed After  10-29-2013
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             Eden : it's an endless world. [Volume 4]
+Call No.          GRAPHIC NOVEL ENDO
+Barcode           31551081789849
+Location          igb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i37756758 Not checked out.  add replacement tm
+                   
+#                 111
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Central BookGroup
+                  p1121757
+                  
+                  210-207-2680
+Title             Amped : a novel / Daniel H. Wilson.
+Call No.          SCIENCE FICTION WILSON
+Barcode           31551101569981
+Location          igb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47001197 Not checked out
+                   
+#                 112
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Library BDC
+                  p1190407
+                  
+                  210-207-9190
+Title             Simple knitting : a complete how-to-knit
+Call No.          746.432 KNIGHT
+Barcode           31551011066383
+Location          igb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i44394482 Not checked out
+                   
+
+                                    Page 33
+#                 113
+Date Placed       11-02-2012
+Not Needed After  11-02-2013
+Not Needed Before   -  -  
+Patron Info       Central Processing Unit Charlotte Balusek
+                  p1666919
+                  charlotte.balusek@sanantonio.gov
+                  210-207-2650
+Title             English tea murder : a Lucy Stone myster
+Call No.          MYSTERY MEIER
+Barcode           31551010289853
+Location          igb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44920337 Not checked out
+                   
+#                 114
+Date Placed       01-15-2013
+Not Needed After  01-15-2014
+Not Needed Before   -  -  
+Patron Info       Igo Library Displays
+                  p1845489
+                  Rhonda.Woolhouse@sanantonio.gov
+                  210-561-6113
+Title             Country life : a handbook for realists a
+Call No.          630 HEINEY
+Barcode           31551035853972
+Location          igb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i18645914 Not checked out
+                   
+#                 115
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Knitters
+                  p1896485
+                  karen.sagun@sanantonio.gov
+                  210-207-9190
+Title             Simple knitting : a complete how-to-knit
+Call No.          746.432 KNIGHT
+Barcode           31551011066383
+Location          igb  
+Pickup Location   th   
+Hold Status       Item hold with 2 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i44394482 Not checked out
+                   
+#                 116
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Montgomery, William Spencer
+                  p1957945
+                  doctorstrust@yahoo.com
+
+                                    Page 34
+                  210-544-0459
+Title             Willie & Joe : the WWII years / Bill Mau
+Call No.          940.5302 MAULDIN  v. 2
+Barcode           31551081397577
+Location          igb  
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i37182079 Not checked out
+                   
+#                 117
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+Not Needed Before   -  -  
+Patron Info       Parman Library  Escape the Earth!
+                  p2192482
+                  tyler.lutz@sanantonio.gov
+                  210-207-2703
+Title             Old man's war / John Scalzi.
+Call No.          SCIENCE FICTION SCALZI
+Barcode           31551073602133
+Location          igb  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i30557471 Not checked out
+                   
+#                 118
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             The book of saints : a comprehensive bio
+Call No.          282.0922 BOOK
+Barcode           31551065351111
+Location          igb  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i24653226 Not checked out
+                   
+#                 119
+Date Placed       12-10-2012
+Not Needed After  12-10-2013
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Grubby
+                  p2219001
+                  dorothyc@sanantonio.gov
+                  210-657-7988
+Title             Sandcastles / Luanne Rice.
+Call No.          PBRACK FICTION
+Barcode           31551077176662
+Location          igb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+
+                                    Page 35
+Status            CHECK SHELF
+Hold Note         .i38399507 Not checked out
+                   
+#                 120
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks NF
+                  p2260352
+                  dorothyc@sanantonio.gov
+                  210-207-9190
+Title             Texas test prep reading workbook. STAAR
+Call No.          372.4 TEXAS 2011
+Barcode           31551101795602
+Location          igb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47324478 Not checked out
+                   
+#                 121
+Date Placed       11-26-2012
+Not Needed After  11-26-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             The siren song / by Rob Kidd ; illustrat
+Call No.          JUVENILE PBRACK FICTION P
+Barcode           31551082295515
+Location          igjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i3921090x Not checked out
+                   
+#                 122
+Date Placed       12-21-2012
+Not Needed After  12-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Oh, no! / words by Candace Fleming ; pic
+Call No.          JUVENILE EASY FLEMING
+Barcode           31551102129652
+Location          igjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i48032530 Not checked out
+                   
+#                 123
+Date Placed       12-04-2012
+Not Needed After  12-04-2013
+Not Needed Before   -  -  
+
+                                    Page 36
+Patron Info       Bello, Ena
+                  p1870058
+                  ena_bello@yahoo.com
+                  210-630-0749
+Title             Benjamin Franklinstein lives! / by Matth
+Call No.          JUVENILE FICTION  MCELLIGOTT
+Barcode           31551080633410
+Location          igjb 
+Pickup Location   ig   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i45822062 Not checked out
+                   
+#                 124
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Winfield, Heather Anne
+                  p1647512
+                  hawinfield@yahoo.com
+                  210-694-9568
+Title             Chronicles of Narnia. The voyage of the
+Call No.          JUVENILE DVD MOVIE CHRONICLES
+Barcode           31551085279946
+Location          igjm 
+Pickup Location   ig   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i44538704 Not checked out
+                   
+#                 125
+Date Placed       02-03-2013
+Not Needed After  02-03-2014
+Not Needed Before   -  -  
+Patron Info       Galindo, Beatriz
+                  p1592248
+                  
+                  210-432-5008
+Title             Have a little faith [sound recording] :
+Call No.          CD 296.7 ALBOM
+Barcode           31551095054255
+Location          igm  
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4024197x Not checked out
+                   
+#                 126
+Date Placed       01-28-2013
+Not Needed After  01-28-2014
+Not Needed Before   -  -  
+Patron Info       Santora, Stefanos L
+                  p1809687
+                  bootscooted@yahoo.com
+                  210-372-1484
+Title             The horse soldiers [videorecording] / Un
+Call No.          DVD MOVIE HORSE
+Barcode           31551078531972
+
+                                    Page 37
+Location          igm  
+Pickup Location   ig   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i3574943x Not checked out
+                   
+#                 127
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Collins Garden Book Club
+                  p2267809
+                  enedina.prater@sanantonio.gov
+                  No phone
+Title             The Forest of Hands and Teeth / Carrie R
+Call No.          YOUNG ADULT FICTION RYAN
+Barcode           31551082298410
+Location          igyb 
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39214035 Not checked out
+                   
+#                 128
+Date Placed       01-27-2013
+Not Needed After  01-27-2014
+Not Needed Before   -  -  
+Patron Info       McClendon, Brian Patrick
+                  p1515984
+                  
+                  210-454-8108
+Title             Immortal bad boys / Rebecca York (as wri
+Call No.          FICTION IMMORTAL
+Barcode           31551072837185
+Location          jhb  
+Pickup Location   jh   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i2897685x Not checked out
+                   
+#                 129
+Date Placed       11-25-2012
+Not Needed After  11-25-2013
+Not Needed Before   -  -  
+Patron Info       Ethridge, Paula L
+                  p1919022
+                  
+                  210-290-9894
+Title             Darkness devours / Keri Arthur.
+Call No.          PBRACK FICTION
+Barcode           31551101769029
+Location          jhb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47278900 Not checked out
+                   
+#                 130
+
+                                    Page 38
+Date Placed       12-15-2012
+Not Needed After  12-15-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             100 characters from classical mythology
+Call No.          704.947 DAY
+Barcode           31551080155547
+Location          jhb  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36587291 Not checked out
+                   
+#                 131
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+Not Needed Before   -  -  
+Patron Info       Talamonte, Angela Michelle
+                  p2258507
+                  dosicas06@gmail.com
+                  951-337-2862
+Title             Locke & Key. Volume 5, Clockworks / writ
+Call No.          GRAPHIC NOVEL HILL
+Barcode           31551101872633
+Location          jhb  
+Pickup Location   jh   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i47473496 Not checked out
+                   
+#                 132
+Date Placed       11-02-2012
+Not Needed After  11-02-2013
+Not Needed Before   -  -  
+Patron Info       Johnston Missing
+                  p1656520
+                  
+                  210-674-8410
+Title             Hold up the sky : and other Native Ameri
+Call No.          JUVENILE 398.20899 CURRY
+Barcode           31551050624035
+Location          jhjb 
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25614769 Not checked out
+                   
+#                 133
+Date Placed       01-22-2013
+Not Needed After  01-22-2014
+Not Needed Before   -  -  
+Patron Info       Salinas, Patricia L
+                  p1789435
+                  plsal3@yahoo.com
+                  210-204-5107
+
+                                    Page 39
+Title             Dark places [sound recording] / by Gilli
+Call No.          CD FICTION FLYNN
+Barcode           31551082774089
+Location          jhm  
+Pickup Location   jh   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i39330692 Not checked out
+                   
+#                 134
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       DeLaPena, Dena Lee
+                  p2157122
+                  
+                  210-923-0963
+Title             Dr. Quinn medicine woman [videorecording
+Call No.          DVD 791.4572 DR  Discs 5 - 7
+Barcode           31551085468671
+Location          jhm  
+Pickup Location   cr   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45624859 Not checked out
+                   
+#                 135
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Soto, Jaime
+                  p2260257
+                  jaimedude79@yahoo.com
+                  210-359-8911
+Title             One Tree Hill. The complete sixth season
+Call No.          DVD 791.4572 ONE  Discs 1-4
+Barcode           31551084794341
+Location          jhm  
+Pickup Location   mc   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40581718 Not checked out
+                   
+#                 136
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Frere, Carol Lawrence
+                  p1645181
+                  bcfrere@aol.com
+                  210-695-9003
+Title             The path between the seas [sound recordi
+Call No.          CD 972.87504 MCCULLOUGH  Pt. 1
+Barcode           31551080372092
+Location          lnm  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+
+                                    Page 40
+Hold Note         .i36437402 Not checked out
+                   
+#                 137
+Date Placed       11-17-2012
+Not Needed After  11-17-2013
+Not Needed Before 07-30-2013
+Patron Info       Allen, Rhonda Renee
+                  p1667368
+                  rhonda.allen@pearson.com
+                  210-387-2983
+Title             Team of rivals [sound recording] : [the
+Call No.          CD 973.7092 LINCOLN  v. 1
+Barcode           31551075599907
+Location          lnm  
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i31777429 Not checked out
+                   
+#                 138
+Date Placed       01-26-2013
+Not Needed After  01-26-2014
+Not Needed Before   -  -  
+Patron Info       Abed, Khalid
+                  p2218859
+                  
+                  210-670-4981
+Title             Miss Peregrine's Home for Peculiar Child
+Call No.          YOUNG ADULT FICTION RIGGS
+Barcode           31551010156896
+Location          lnyb 
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45047145 Not checked out
+                   
+#                 139
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             The art of racing in the rain : a novel
+Call No.          FICTION STEIN
+Barcode           31551095213190
+Location          lpb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43404224 Not checked out
+                   
+#                 140
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Library BDC
+
+                                    Page 41
+                  p1190407
+                  
+                  210-207-9190
+Title             Knitting for dummies / by Pam Allen ; fo
+Call No.          746.432 ALLEN
+Barcode           31551076365001
+Location          mbb  
+Pickup Location   we   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32580691 Not checked out
+                   
+#                 141
+Date Placed       01-07-2013
+Not Needed After  01-07-2014
+Not Needed Before   -  -  
+Patron Info       Eichelbaum, Marlene
+                  p1981281
+                  meichelbaum@satx.rr.com
+                  210-684-7309
+Title             The Paris wife : a novel / Paula McLain.
+Call No.          FICTION MCLAIN
+Barcode           31551010870983
+Location          mbn  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44059504 Not checked out
+                   
+#                 142
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929879
+Location          mcb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699613 Not checked out
+                   
+#                 143
+Date Placed       12-16-2012
+Not Needed After  12-16-2013
+Not Needed Before   -  -  
+Patron Info       Williams, Christshawna Sudi
+                  p1978787
+                  
+                  210-544-4254
+Title             Material girl 2 : labels and love / Keis
+Call No.          FICTION ERVIN
+Barcode           31551102782930
+Location          mcb  
+
+                                    Page 42
+Pickup Location   mc   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i48755886 Not checked out
+                   
+#                 144
+Date Placed       11-21-2012
+Not Needed After  11-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             May Bird and The Ever After / Jodi Lynn
+Call No.          JUVENILE FICTION ANDERSON
+Barcode           31551099771433
+Location          mcjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42957497 Not checked out
+                   
+#                 145
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Andridge, Herbert Wendell
+                  p1695178
+                  hwandridge@hotmail.com
+                  210-822-0139
+Title             Ed Sullivan's rock 'n' roll classics col
+Call No.          DVD 781.66 ED  v. 1-4
+Barcode           31551071532753
+Location          mcm  
+Pickup Location   ok   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i26112784 Not checked out
+                   
+#                 146
+Date Placed       09-05-2012
+Not Needed After  09-05-2013
+Not Needed Before   -  -  
+Patron Info       Central Technical Services-Holdings Editor
+                  p1736520
+                  barbara.lujan@sanantonio.gov
+                  210-207-2524
+Title             Les mis{u00E9}rables [sound recording] : Victo
+Call No.          CD FICTION MISERABLES
+Barcode           31551085302813
+Location          mcm  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44608342 Not checked out.  Needs replacement cover art.
+                   
+#                 147
+Date Placed       01-31-2013
+
+                                    Page 43
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks Library BDC
+                  p1190407
+                  
+                  210-207-9190
+Title             A tree grows in Brooklyn / Betty Smith.
+Call No.          FICTION SMITH
+Barcode           31551066400677
+Location          meb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i19448909 Not checked out
+                   
+#                 148
+Date Placed       11-17-2012
+Not Needed After  11-17-2013
+Not Needed Before   -  -  
+Patron Info       Garcia, Leticia Flores
+                  p1497357
+                  
+                  210-521-3686
+Title             A history of the twentieth century / Mar
+Call No.          909.82 GILBERT  v. 2
+Barcode           31551037067431
+Location          meb  
+Pickup Location   gr   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i18272137 Not checked out
+                   
+#                 149
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929887
+Location          meb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699625 Not checked out
+                   
+#                 150
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             Red Dog / Louis De Bernieres ; retold by
+
+                                    Page 44
+Call No.          FICTION BASSETT
+Barcode           31551010775513
+Location          meb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224389 Not checked out
+                   
+#                 151
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Standoff / Sandra Brown.
+Call No.          FICTION BROWN
+Barcode           31551084589865
+Location          meb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41091644 Not checked out
+                   
+#                 152
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Charade [text (large print)] / Sandra Br
+Call No.          LARGE PRINT FICTION BROWN
+Barcode           31551030724434
+Location          meb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i15678301 Not checked out
+                   
+#                 153
+Date Placed       11-16-2012
+Not Needed After  11-16-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Thrills, spills, and cosmic chills / by
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551083055546
+Location          mejb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i37463974 Not checked out
+
+                                    Page 45
+                   
+#                 154
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             The case of the mystery meat loaf / by D
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551101509664
+Location          mejb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46896454 Not checked out
+                   
+#                 155
+Date Placed       12-10-2012
+Not Needed After  12-10-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             La oca boba / Petr Hor{u00E1}{u010D}ek.
+Call No.          JUVENIL ESPANOL FACIL HORACEK
+Barcode           31551080825834
+Location          mejsb
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36392546 Not checked out
+                   
+#                 156
+Date Placed       12-29-2012
+Not Needed After  12-29-2013
+Not Needed Before   -  -  
+Patron Info       Lazo, Alice Josephine Storm
+                  p1048031
+                  
+                  210-348-9042
+Title             Fringe. The complete first season [video
+Call No.          DVD 791.4572 FRINGE  Discs 1 - 4
+Barcode           31551084915961
+Location          mem  
+Pickup Location   mb4  
+Hold Status       Item hold with 2 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i41439880 Not checked out
+                   
+#                 157
+Date Placed       11-24-2012
+Not Needed After  11-24-2013
+Not Needed Before   -  -  
+Patron Info       Cervantes, Sophia Remi
+                  p2220488
+
+                                    Page 46
+                  
+                  210-800-1383
+Title             Fringe. The complete first season [video
+Call No.          DVD 791.4572 FRINGE  Discs 1 - 4
+Barcode           31551084915961
+Location          mem  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i41439880 Not checked out
+                   
+#                 158
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       Soto, Jaime
+                  p2260257
+                  jaimedude79@yahoo.com
+                  210-359-8911
+Title             Star trek, the next generation. Season 3
+Call No.          DVD 791.4572 STAR  Discs 1 - 4
+Barcode           31551097201656
+Location          mem  
+Pickup Location   mc   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44263120 Not checked out
+                   
+#                 159
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             Red Dog / Louis De Bernieres ; retold by
+Call No.          FICTION BASSETT
+Barcode           31551010775539
+Location          msb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224407 Not checked out
+                   
+#                 160
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             Red Dog / Louis De Bernieres ; retold by
+Call No.          FICTION BASSETT
+Barcode           31551010775547
+Location          msb  
+Pickup Location   mb   
+
+                                    Page 47
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224419 Not checked out
+                   
+#                 161
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks NF
+                  p2260352
+                  dorothyc@sanantonio.gov
+                  210-207-9190
+Title             The nonprofit's guide to human resources
+Call No.          658.3 NONPROFIT 2011
+Barcode           31551022464395
+Location          msb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45886155 Not checked out
+                   
+#                 162
+Date Placed       01-31-2013
+Not Needed After  01-31-2014
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             The sinking of the Titanic, 1912 / by La
+Call No.          JUVENILE FICTION TARSHIS
+Barcode           31551010145220
+Location          msjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45584692 Not checked out
+                   
+#                 163
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Fire! {u00A1}Fuego! Brave bomberos / Susan Mid
+Call No.          JUVENILE EASY ELYA
+Barcode           31551101549918
+Location          msjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46974489 Not checked out
+                   
+#                 164
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+
+                                    Page 48
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551068273353
+Location          mvb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25936785 Not checked out
+                   
+#                 165
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551099646445
+Location          mvb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42618289 Not checked out
+                   
+#                 166
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             To the end of the land / David Grossman
+Call No.          FICTION GROSSMAN
+Barcode           31551094752271
+Location          mvb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42630976 Not checked out
+                   
+#                 167
+Date Placed       01-04-2013
+Not Needed After  01-04-2014
+Not Needed Before   -  -  
+Patron Info       Frisco Public Library
+                  p2128786
+                  
+                  No phone
+Title             Nourishing traditions : the cookbook tha
+Call No.          641.5 FALLON
+
+                                    Page 49
+Barcode           31551077244718
+Location          mvb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i34152490 Not checked out
+                   
+#                 168
+Date Placed       01-24-2013
+Not Needed After  01-24-2014
+Not Needed Before   -  -  
+Patron Info       Parman Library  Escape the Earth!
+                  p2192482
+                  tyler.lutz@sanantonio.gov
+                  210-207-2703
+Title             Old man's war / John Scalzi.
+Call No.          SCIENCE FICTION SCALZI
+Barcode           31551073074606
+Location          mvb  
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i29132629 Not checked out
+                   
+#                 169
+Date Placed       01-20-2013
+Not Needed After  01-20-2014
+Not Needed Before   -  -  
+Patron Info       Feuge, Jennifer Blake
+                  p1725273
+                  thefeuges@sbcglobal.net
+                  210-286-0757
+Title             You are mine [videorecording] / Creative
+Call No.          JUVENILE DVD ANIMATED YOU
+Barcode           31551067856943
+Location          mvjm 
+Pickup Location   mv   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i26457878 Not checked out
+                   
+#                 170
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Myers, James L
+                  p1332520
+                  
+                  210-673-0831
+Title             Double cross : the true story of the D-d
+Call No.          940.54214 MACINTYRE 2012
+Barcode           31551102131443
+Location          mvn  
+Pickup Location   jh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i48042717 Not checked out
+                   
+
+                                    Page 50
+#                 171
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551067377437
+Location          okb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i2593675x Not checked out
+                   
+#                 172
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             Obamanomics : how Barack Obama is bankru
+Call No.          330.973 CARNEY
+Barcode           31551095250820
+Location          okb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40726952 Not checked out
+                   
+#                 173
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             Obamanomics : how Barack Obama is bankru
+Call No.          330.973 CARNEY
+Barcode           31551095250788
+Location          okb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40726915 Not checked out
+                   
+#                 174
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+
+                                    Page 51
+                  210-431-2544
+Title             To the end of the land / David Grossman
+Call No.          FICTION GROSSMAN
+Barcode           31551094752255
+Location          okb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42630952 Not checked out
+                   
+#                 175
+Date Placed       01-22-2013
+Not Needed After  01-22-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Adult Book Group
+                  p1709046
+                  randi.jones@sanantonio.gov
+                  210-650-9540
+Title             State of Wonder : a novel / Ann Patchett
+Call No.          FICTION PATCHETT
+Barcode           31551010366354
+Location          okb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44783346 Not checked out
+                   
+#                 176
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Igo Library Crime Etc Book Club
+                  p1911413
+                  Michelle.Ricondo@sanantonio.gov
+                  210-561-6157
+Title             Midnight in Peking : how the murder of a
+Call No.          364.1523 FRENCH 2012
+Barcode           31551101396286
+Location          okb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46701497 Not checked out
+                   
+#                 177
+Date Placed       01-11-2013
+Not Needed After  01-11-2014
+Not Needed Before   -  -  
+Patron Info       Igo Library Mystery Book Club
+                  p1952325
+                  Rhonda.Woolhouse@sanantonio.gov
+                  210-561-6113
+Title             Dirty Sally : a novel / by Michael Simon
+Call No.          FICTION SIMON
+Barcode           31551071680057
+Location          okb  
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+
+                                    Page 52
+Status            CHECK SHELF
+Hold Note         .i27143193 Not checked out
+                   
+#                 178
+Date Placed       11-29-2012
+Not Needed After  11-29-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             The measure of a man : a spiritual autob
+Call No.          791.43028 POITIER BIOGRAPHY
+Barcode           31551077544448
+Location          okb  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i33703875 Not checked out
+                   
+#                 179
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Apartment therapy : the eight step home
+Call No.          747.019 GILLINGHAM-RYAN
+Barcode           31551099422003
+Location          okb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42451851 Not checked out
+                   
+#                 180
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Naughty no more! : change unwanted behav
+Call No.          636.80835 KRIEGER 2012
+Barcode           31551101798309
+Location          okb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47327315 Not checked out
+                   
+#                 181
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+
+                                    Page 53
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Robin to the rescue : quick & simple rec
+Call No.          641.555 MILLER
+Barcode           31551080415693
+Location          okb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36430225 Not checked out
+                   
+#                 182
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Paper crafting with Carol Duvall / [edit
+Call No.          745.54 DUVALL
+Barcode           31551099467982
+Location          okb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42413886 Not checked out
+                   
+#                 183
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Fun & easy intarsia project / Patrick Sp
+Call No.          745.512 SPIELMAN
+Barcode           31551075984711
+Location          okb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32953501 Not checked out
+                   
+#                 184
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Mariposa / adapted by Christy Webster ;
+Call No.          JUVENILE BEGINNER WEBSTER
+Barcode           31551080039022
+
+                                    Page 54
+Location          okjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36327487 Not checked out
+                   
+#                 185
+Date Placed       01-08-2013
+Not Needed After  01-08-2014
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             The fight for the frozen land : Arctic /
+Call No.          JUVENILE PBRACK FICTION
+Barcode           31551095520974
+Location          okjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43682030 Not checked out
+                   
+#                 186
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Super Cluck / by Jane O'Connor and Rober
+Call No.          JUVENILE BEGINNER O'CONNOR
+Barcode           31551025269502
+Location          okjb 
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11771094 Not checked out
+                   
+#                 187
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Barbie : mujer profesional / [escrito po
+Call No.          JUVENIL ESPANOL  331.702 BARRACLOUGH
+Barcode           31551071194950
+Location          okjsb
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i27429350 Not checked out
+                   
+#                 188
+
+                                    Page 55
+Date Placed       01-27-2013
+Not Needed After  01-27-2014
+Not Needed Before   -  -  
+Patron Info       Hernandez, Linda Rodriguez
+                  p1561937
+                  lhernandez3@sanantonio.gov
+                  210-843-8105
+Title             Prevention fitness systems. 400 calorie
+Call No.          DVD 613.7 PREVENTION
+Barcode           31551085250319
+Location          okm  
+Pickup Location   ok   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i44082721 Not checked out
+                   
+#                 189
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Castillo, Andrea Gabrielle
+                  p1597229
+                  
+                  210-371-0927
+Title             McLeod's daughters. The complete fourth
+Call No.          DVD 791.4572 MCLEOD'S  Discs 1 - 4
+Barcode           31551085781313
+Location          okm  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47428910 Not checked out
+                   
+#                 190
+Date Placed       12-03-2012
+Not Needed After  12-03-2013
+Not Needed Before   -  -  
+Patron Info       Rice, Sarah Elizabeth
+                  p1987689
+                  sarrice@gmail.com
+                  210-621-3984
+Title             Bessie Smith, the complete recordings [s
+Call No.          OVERSIZE CD R&B SMITH  v. 1
+Barcode           31551037783292
+Location          okm  
+Pickup Location   gr   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i1977994x Not checked out
+                   
+#                 191
+Date Placed       02-02-2013
+Not Needed After  02-02-2014
+Not Needed Before   -  -  
+Patron Info       Coston, McKenzie Erin
+                  p2249870
+                  
+                  210-264-0946
+
+                                    Page 56
+Title             CSI: Miami. The complete first season [v
+Call No.          DVD 791.4572 CSI  Discs 5 - 7
+Barcode           31551097206994
+Location          okm  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4432733x Not checked out
+                   
+#                 192
+Date Placed       02-02-2013
+Not Needed After  02-02-2014
+Not Needed Before   -  -  
+Patron Info       Coston, McKenzie Erin
+                  p2249870
+                  
+                  210-264-0946
+Title             CSI: Miami. The complete second season [
+Call No.          DVD 791.4572 CSI  Discs 5 - 7
+Barcode           31551096949164
+Location          okm  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i44229409 Not checked out
+                   
+#                 193
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551083814876
+Location          pnb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4069009x Not checked out
+                   
+#                 194
+Date Placed       11-10-2012
+Not Needed After  11-10-2013
+Not Needed Before   -  -  
+Patron Info       Pan American, Children
+                  p1235353
+                  carol.collins@sanantonio.gov
+                  210-924-8164
+Title             The Hart brand [text (large print)] : a
+Call No.          LARGE PRINT FICTION BOGGS
+Barcode           31551006440536
+Location          pnb  
+Pickup Location   pn   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+
+                                    Page 57
+Hold Note         .i4246867x Not checked out
+                   
+#                 195
+Date Placed       12-22-2012
+Not Needed After  12-22-2013
+Not Needed Before   -  -  
+Patron Info       Velazquez-Ramirez, Eduardo
+                  p1913005
+                  
+                  210-371-5823
+Title             La Tercera palabra [videorecording] / Pr
+Call No.          ESPANOL DVD PELICULA TERCERA
+Barcode           31551071290071
+Location          pnsm 
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i26295921 Not checked out
+                   
+#                 196
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             The art of racing in the rain : a novel
+Call No.          FICTION STEIN
+Barcode           31551080748325
+Location          rsb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i36671290 Not checked out
+                   
+#                 197
+Date Placed       01-05-2013
+Not Needed After  01-05-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             Obsidian butterfly / Laurell K. Hamilton
+Call No.          PBRACK FICTION
+Barcode           31551096836262
+Location          smb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41989636 Not checked out.  keep -cm
+                   
+#                 198
+Date Placed       01-29-2013
+Not Needed After  01-29-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+
+                                    Page 58
+                  p1069408
+                  
+                  210-207-2500
+Title             Killing time [text (large print)] : a no
+Call No.          LARGE PRINT FICTION HOWARD
+Barcode           31551073183605
+Location          smb  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i30057565 Not checked out.  add tm
+                   
+#                 199
+Date Placed       01-07-2013
+Not Needed After  01-07-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Classic Book Club
+                  p1837347
+                  dnicholl@sanantonio.gov
+                  210-650-9540
+Title             Go tell it on the mountain / James Baldw
+Call No.          FICTION BALDWIN
+Barcode           31551006291285
+Location          smb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i10200009 Not checked out
+                   
+#                 200
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929945
+Location          smb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699686 Not checked out
+                   
+#                 201
+Date Placed       01-13-2013
+Not Needed After  01-13-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Mystery Book Club
+                  p2258321
+                  deborah.nicholl@sanantonio.gov
+                  210-207-9110
+Title             Spies of the Balkans : a novel / Alan Fu
+Call No.          FICTION FURST
+Barcode           31551099454311
+Location          smb  
+
+                                    Page 59
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41829578 Not checked out
+                   
+#                 202
+Date Placed       01-13-2013
+Not Needed After  01-13-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Mystery Book Club
+                  p2258321
+                  deborah.nicholl@sanantonio.gov
+                  210-207-9110
+Title             Spies of the Balkans : a novel / Alan Fu
+Call No.          FICTION FURST
+Barcode           31551099454253
+Location          smb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41829517 Not checked out
+                   
+#                 203
+Date Placed       01-13-2013
+Not Needed After  01-13-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Mystery Book Club
+                  p2258321
+                  deborah.nicholl@sanantonio.gov
+                  210-207-9110
+Title             Spies of the Balkans : a novel / Alan Fu
+Call No.          FICTION FURST
+Barcode           31551099454329
+Location          smb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4182958x Not checked out
+                   
+#                 204
+Date Placed       02-01-2013
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Mystery Book Club
+                  p2258321
+                  deborah.nicholl@sanantonio.gov
+                  210-207-9110
+Title             Devil in a blue dress / Walter Mosley.
+Call No.          MYSTERY MOSLEY
+Barcode           31551067939384
+Location          smb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11263027 Not checked out
+                   
+#                 205
+Date Placed       02-01-2013
+
+                                    Page 60
+Not Needed After  02-01-2014
+Not Needed Before   -  -  
+Patron Info       Semmes Library Mystery Book Club
+                  p2258321
+                  deborah.nicholl@sanantonio.gov
+                  210-207-9110
+Title             Devil in a blue dress / Walter Mosley.
+Call No.          MYSTERY MOSLEY
+Barcode           31551067939608
+Location          smb  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i11263039 Not checked out
+                   
+#                 206
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Igo Library Storytimes
+                  p1843376
+                  
+                  210-207-9080
+Title             You be you / by Linda Kranz.
+Call No.          JUVENILE EASY KRANZ
+Barcode           31551101639073
+Location          smjb 
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47092130 Not checked out
+                   
+#                 207
+Date Placed       11-19-2012
+Not Needed After  11-19-2013
+Not Needed Before   -  -  
+Patron Info       Parman Library HOLDINGS EDITOR
+                  p2140979
+                  
+                  210-207-2703
+Title             Wee sing for Halloween [sound recording]
+Call No.          JUVENILE CD SPECIAL HOLIDAY
+Barcode           31551076643548
+Location          smjm 
+Pickup Location   st   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32761776 Not checked out
+                   
+#                 208
+Date Placed       11-18-2012
+Not Needed After  11-18-2013
+Not Needed Before   -  -  
+Patron Info       Eison-Fletcher, Patricia
+                  p1101673
+                  
+                  830-980-8404
+Title             Team of rivals [sound recording] : [the
+
+                                    Page 61
+Call No.          CD 973.7092 LINCOLN  v. 2
+Barcode           31551066111217
+Location          smm  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i31828401 Not checked out
+                   
+#                 209
+Date Placed       01-22-2013
+Not Needed After  01-22-2014
+Not Needed Before   -  -  
+Patron Info       Patel, Dharti Vikram
+                  p1796856
+                  e052840@nisd.net
+                  210-251-5512
+Title             Fringe. The complete first season [video
+Call No.          DVD 791.4572 FRINGE  Discs 5 - 7
+Barcode           31551084915979
+Location          smm  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i41439892 Not checked out
+                   
+#                 210
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Ullery, Jody Christine
+                  p2254401
+                  jodyullery@gmail.com
+                  615-498-3548
+Title             Team of rivals [sound recording] : [the
+Call No.          CD 973.7092 LINCOLN  v. 2
+Barcode           31551066111217
+Location          smm  
+Pickup Location   sm   
+Hold Status       Item hold with 2 of 2 holds
+Status            CHECK SHELF
+Hold Note         .i31828401 Not checked out
+                   
+#                 211
+Date Placed       01-15-2013
+Not Needed After  01-15-2014
+Not Needed Before   -  -  
+Patron Info       Estrada, David
+                  p1433142
+                  david_estrada_satx@yahoo.com
+                  210-977-0731
+Title             20 {u00E9}xitos originales [sound recording] :
+Call No.          ESPANOL CD POPULAR 20
+Barcode           31551076125116
+Location          smsm 
+Pickup Location   ba   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32500476 Not checked out
+
+                                    Page 62
+                   
+#                 212
+Date Placed       12-09-2012
+Not Needed After  12-09-2013
+Not Needed Before   -  -  
+Patron Info       Igo Library Storytimes
+                  p1843376
+                  
+                  210-207-9080
+Title             Snail trail : in search of a modern mast
+Call No.          JUVENILE EASY SAXTON
+Barcode           31551101474521
+Location          spjb 
+Pickup Location   ig   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4684319x Not checked out
+                   
+#                 213
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551099663945
+Location          stb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42639670 Not checked out
+                   
+#                 214
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             The art of racing in the rain : a novel
+Call No.          FICTION STEIN
+Barcode           31551099924891
+Location          stb  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43295617 Not checked out
+                   
+#                 215
+Date Placed       01-10-2013
+Not Needed After  01-10-2014
+Not Needed Before   -  -  
+Patron Info       Mission Book Group
+                  p2178106
+
+                                    Page 63
+                  jane.miller@sanantonio.gov
+                  210-207-2704
+Title             Never let me go / Kazuo Ishiguro.
+Call No.          FICTION ISHIGURO
+Barcode           31551096600387
+Location          stb  
+Pickup Location   ms   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i42361771 Not checked out
+                   
+#                 216
+Date Placed       12-15-2012
+Not Needed After  12-15-2013
+Not Needed Before   -  -  
+Patron Info       Guerra Branch Collection HQ
+                  p2208982
+                  leticia.guerra@sanantonio.gov
+                  210-673-1492
+Title             Arco GRE/GMAT math review / David Friede
+Call No.          510.76 FRIEDER 2005
+Barcode           31551084009229
+Location          stb  
+Pickup Location   gu   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46637618 Not checked out
+                   
+#                 217
+Date Placed       01-11-2013
+Not Needed After  01-11-2014
+Not Needed Before   -  -  
+Patron Info       Thousand Oaks NF
+                  p2260352
+                  dorothyc@sanantonio.gov
+                  210-207-9190
+Title             Homesick and happy : how time away from
+Call No.          155.4192 THOMPSON 2012
+Barcode           31551101426554
+Location          stb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46770124 Not checked out
+                   
+#                 218
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Beckstead, Ginger Adams
+                  p1254777
+                  gingerbeckstead@gmail.com
+                  210-452-1780
+Title             The ballad of Lucy Whipple / by Karen Cu
+Call No.          JUVENILE FICTION CUSHMAN
+Barcode           31551032666823
+Location          stjb 
+Pickup Location   st   
+
+                                    Page 64
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i16990055 Not checked out
+                   
+#                 219
+Date Placed       01-26-2013
+Not Needed After  01-26-2014
+Not Needed Before   -  -  
+Patron Info       Howell, Jaquelyne C
+                  p1900316
+                  jacquelynehowell@yahoo.com
+                  830-438-1887
+Title             Hannah Montana [videorecording] : the mo
+Call No.          JUVENILE DVD MOVIE HANNAH
+Barcode           31551084873012
+Location          stjm 
+Pickup Location   st   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i41137711 Not checked out
+                   
+#                 220
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Spivey, Lori Elaine
+                  p2245479
+                  clspivey.the@gmail.com
+                  210-744-1647
+Title             Secret of the wings [videorecording].
+Call No.          JUVENILE DVD ANIMATED SECRET
+Barcode           31551085977283
+Location          stjm 
+Pickup Location   st   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i4822795x Not checked out
+                   
+#                 221
+Date Placed       01-27-2013
+Not Needed After  01-27-2014
+Not Needed Before   -  -  
+Patron Info       Robles-Herrera, Nora Hilda
+                  p1730026
+                  norarobles@yahoo.com
+                  210-822-6468
+Title             When you're strange [videorecording]  /
+Call No.          DVD 782.42166 WHEN
+Barcode           31551085325871
+Location          stm  
+Pickup Location   st   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i44823915 Not checked out
+                   
+#                 222
+Date Placed       08-26-2012
+Not Needed After  08-26-2013
+
+                                    Page 65
+Not Needed Before 05-08-2013
+Patron Info       Srinivasan Parthasarathy, Karthee
+                  p2235106
+                  karthee.vp@gmail.com
+                  585-993-1668
+Title             Star trek, the original series. Season o
+Call No.          DVD 791.4572 STAR  Discs 1 - 6
+Barcode           31551085837438
+Location          stm  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47628145 Not checked out
+                   
+#                 223
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Janney, Tiffany Shelton
+                  p2238779
+                  dtjanney2009@yahoo.com
+                  830-714-7018
+Title             City of lost souls / Cassandra Clare.
+Call No.          YOUNG ADULT FICTION CLARE
+Barcode           31551100349641
+Location          styb 
+Pickup Location   st   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i4707310x Not checked out
+                   
+#                 224
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             Shades of grey : the road to High Saffro
+Call No.          FICTION FFORDE
+Barcode           31551083814918
+Location          thb  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i40690003 Not checked out
+                   
+#                 225
+Date Placed       01-30-2013
+Not Needed After  01-30-2014
+Not Needed Before   -  -  
+Patron Info       Memorial Library Book Group
+                  p1546426
+                  
+                  210-432-6783
+Title             Frankenstein / Mary Shelley ; retold by
+Call No.          FICTION NOBES
+
+                                    Page 66
+Barcode           31551094930133
+Location          thb  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4369987x Not checked out
+                   
+#                 226
+Date Placed       12-05-2012
+Not Needed After  12-05-2013
+Not Needed Before   -  -  
+Patron Info       Memorial Library Book Club
+                  p1831269
+                  
+                  210-432-6783
+Title             Frankenstein / Mary Shelley ; retold by
+Call No.          FICTION NOBES
+Barcode           31551094930166
+Location          thb  
+Pickup Location   me   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i4369990x Not checked out
+                   
+#                 227
+Date Placed       02-04-2013
+Not Needed After  02-04-2014
+Not Needed Before   -  -  
+Patron Info       Outreach Office
+                  p1940264
+                  ramona.lucius@sanantonio.gov
+                  210-207-2576
+Title             The call of the wild / Jack London ; ret
+Call No.          FICTION BULLARD
+Barcode           31551094929895
+Location          thb  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43699637 Not checked out
+                   
+#                 228
+Date Placed       11-18-2012
+Not Needed After  11-18-2013
+Not Needed Before   -  -  
+Patron Info       Collins Garden, Floating Rplcmnt Crd
+                  p2065826
+                  Leigh.Bedford@sanantonio.gov
+                  210-225-0331
+Title             Curse of the Jade Lily / David Housewrig
+Call No.          MYSTERY HOUSEWRIGHT
+Barcode           31551094676272
+Location          thb  
+Pickup Location   cl   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47502903 Not checked out
+                   
+
+                                    Page 67
+#                 229
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             A little dinner before the play / Agnes
+Call No.          641.5 JEKYLL 2011
+Barcode           31551094972325
+Location          thb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i46610844 Not checked out
+                   
+#                 230
+Date Placed       12-18-2012
+Not Needed After  12-18-2013
+Not Needed Before   -  -  
+Patron Info       Cody Collection HQ
+                  p2209187
+                  hayley.latshaw@sanantonio.gov
+                  210-696-6396
+Title             Wrong about Japan : a father's journey w
+Call No.          915.2045 CAREY
+Barcode           31551072759942
+Location          thb  
+Pickup Location   co   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i29104543 Not checked out
+                   
+#                 231
+Date Placed       10-24-2012
+Not Needed After  10-24-2013
+Not Needed Before 07-06-2013
+Patron Info       Allport, William
+                  p2230819
+                  revballport@gmail.com
+                  808-384-0006
+Title             East of the sun / Julia Gregson.
+Call No.          FICTION GREGSON
+Barcode           31551084577126
+Location          thb  
+Pickup Location   th   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i39869106 Not checked out
+                   
+#                 232
+Date Placed       11-21-2012
+Not Needed After  11-21-2013
+Not Needed Before   -  -  
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+
+                                    Page 68
+                  210-733-1454
+Title             The salamander spell / E.D. Baker.
+Call No.          JUVENILE FICTION BAKER
+Barcode           31551079071283
+Location          thjb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i35029493 Not checked out
+                   
+#                 233
+Date Placed       10-27-2012
+Not Needed After  10-27-2013
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Holdings Katie
+                  p1202721
+                  kathryn.ryan@sanantonio.gov
+                  210-207-9038
+Title             The girl is murder [sound recording] / b
+Call No.          YOUNG ADULT CD FICTION HAINES
+Barcode           31551095971615
+Location          thym 
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45664754 Not checked out.  Is author's name misspelled?
+                   
+#                 234
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Fiction Dept Staff Use
+                  p1069408
+                  
+                  210-207-2500
+Title             Strong justice / Jon Land.
+Call No.          FICTION LAND
+Barcode           31551100008049
+Location          web  
+Pickup Location   ce   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43741174 Not checked out.  tricia add 3rd
+                   
+#                 235
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog / Andrea Camilleri ;
+Call No.          MYSTERY CAMILLERI
+Barcode           31551067377452
+Location          web  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+
+                                    Page 69
+Status            CHECK SHELF
+Hold Note         .i25936773 Not checked out
+                   
+#                 236
+Date Placed       02-06-2013
+Not Needed After  02-06-2014
+Not Needed Before   -  -  
+Patron Info       Brook Hollow, Book Club
+                  p1100570
+                  tapley.trudell@sanantonio.gov
+                  210-496-6315
+Title             The terra-cotta dog [text (large print)]
+Call No.          LARGE PRINT FICTION CAMILLERI
+Barcode           31551075467147
+Location          web  
+Pickup Location   bh   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i32283623 Not checked out
+                   
+#                 237
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Forest Hills Library Book Club
+                  p1444206
+                  mary.naylor@sanantonio.gov
+                  210-431-2544
+Title             Stiff : the curious lives of human cadav
+Call No.          611 ROACH
+Barcode           31551066700241
+Location          web  
+Pickup Location   fo   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i25389221 Not checked out
+                   
+#                 238
+Date Placed       01-25-2013
+Not Needed After  01-25-2014
+Not Needed Before   -  -  
+Patron Info       Dare to Read Book Club
+                  p2204450
+                  diana.starrett@sanantonio.gov
+                  210-207-2565
+Title             Red Dog / Louis De Bernieres ; retold by
+Call No.          FICTION BASSETT
+Barcode           31551010775505
+Location          web  
+Pickup Location   mb   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i45224377 Not checked out
+                   
+#                 239
+Date Placed       01-08-2013
+Not Needed After  01-08-2014
+Not Needed Before   -  -  
+
+                                    Page 70
+Patron Info       San Pedro Library Story Time
+                  p1301745
+                  elizabeth.dalton@sanantonio.gov
+                  210-733-1454
+Title             Bonjour, butterfly / written by Jane O'C
+Call No.          JUVENILE EASY O'CONNOR
+Barcode           31551082085239
+Location          wejb 
+Pickup Location   sp   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i37477560 Not checked out
+                   
+#                 240
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Jay, Karen Vernice
+                  p1731050
+                  kvj715@gmail.com
+                  210-459-0394
+Title             Roots [videorecording] / developed for t
+Call No.          DVD 791.4572 ROOTS  Discs 5 - 7
+Barcode           31551085888811
+Location          wem  
+Pickup Location   rs   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i47990715 Not checked out
+                   
+#                 241
+Date Placed       02-05-2013
+Not Needed After  02-05-2014
+Not Needed Before   -  -  
+Patron Info       Magill, Melora D
+                  p1830003
+                  meloradennise@gmail.com
+                  210-663-4793
+Title             Star trek, the next generation. Season 3
+Call No.          DVD 791.4572 STAR  Discs 1 - 4
+Barcode           31551085221971
+Location          wem  
+Pickup Location   sm   
+Hold Status       Item hold with 1 of 1 holds
+Status            CHECK SHELF
+Hold Note         .i43887600 Not checked out
+                   
+#                 242
+Date Placed       01-29-2013
+Not Needed After  01-29-2014
+Not Needed Before   -  -  
+Patron Info       Grimaldo, Teresa P
+                  p2174461
+                  tgrim500@gmail.com
+                  210-322-5474
+Title             Heroes. Season 2, disc 4 [videorecording
+Call No.          DVD 791.4572 HEROES
+Barcode           31551082944104
+
+                                    Page 71
+Location          wem  
+Pickup Location   we   
+Hold Status       Item hold on holdshelf
+Status            CHECK SHELF
+Hold Note         .i37593493 Not checked out
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Page 72
